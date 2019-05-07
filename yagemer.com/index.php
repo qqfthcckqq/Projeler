@@ -1,3 +1,4 @@
 <?php 
-	echo "Fatih ÇİÇEK";
+	echo "Fatih ÇİÇEK Git Hub Kullanımı İçin Bir Proje";
+	
 ?>
